@@ -797,6 +797,8 @@ hr {
   -webkit-transition: all 0.3s ease-in-out 0s;
   -o-transition: all 0.3s ease-in-out 0s;
   background: #fff;
+  height: 300px;
+  text-align: justify;
 }
 
 .team-item .team-img {
@@ -806,7 +808,7 @@ hr {
 }
 
 .team-item .contetn {
-  padding: 15px 50px;
+  padding: 15px 30px;
   height: 200px;
 }
 
